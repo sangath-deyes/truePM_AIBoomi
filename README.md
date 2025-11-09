@@ -16,7 +16,7 @@ Traditional product development tools create silos between ideation, planning, a
 - **UI Components**: shadcn-ui for accessible, customizable component library
 - **State Management**: TanStack Query (React Query) for efficient server state management
 - **Backend**: Lovable Cloud (powered by Supabase) for database, authentication, and serverless functions
-- **AI Integration**: Lovable AI with support for GPT-5 and Gemini 2.5 models for intelligent features
+- **AI Integration**: GPT-5 and Gemini 2.5 models for intelligent features
 - **Routing**: React Router for client-side navigation
 - **Form Handling**: React Hook Form with Zod validation
 - **Real-time Features**: Supabase Realtime for live data synchronization
